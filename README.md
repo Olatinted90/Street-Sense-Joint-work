@@ -1,2 +1,2 @@
-# Streer-Sense-Joined-work
-For Streetsense website
+# Street-Sense-Joint-Work
+For Street Sense Website
